@@ -1,0 +1,15 @@
+.page{
+    background-color: red;
+    background-image: url(numbers-removebg-preview.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.logo{
+    background-image: url(question_mark-removebg-preview.png);
+    background-size: 40%;
+}
