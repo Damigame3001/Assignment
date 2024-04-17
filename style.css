@@ -1,6 +1,6 @@
 .page{
     background-color: red;
-    background-image: url(numbers-removebg-preview.png);
+    background-image: url(numberlogo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,6 +10,6 @@
     height: 100vh;
 }
 .logo{
-    background-image: url(question_mark-removebg-preview.png);
+    background-image: url(questionlogo.png);
     background-size: 40%;
 }
