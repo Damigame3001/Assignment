@@ -1,0 +1,30 @@
+.page {
+    background-color: red;
+    background-image: url(backgroundLogo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.logo {
+    background-image: url(questionDesign.png);
+    background-size: 40%;
+    width: 50% ;
+    height: 75%;
+}
+
+/* #randomNumber {                         Random number shown was displayed in HTML file then displayed the guess number function
+    display: none;                         This method may also be used
+} */
+
+
+.btngrp {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
